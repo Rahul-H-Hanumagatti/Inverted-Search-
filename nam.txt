@@ -1,0 +1,10 @@
+#index;word;file_count;filename;word_count#
+#3;Dodd;1;f4.txt;1;#
+#7;Hi;1;f5.txt;1;#
+#7;hello;1;f5.txt;1;#
+#7;hello;1;f5.txt;1;#
+#12;Mandige;1;f4.txt;1;#
+#13;Namskar;1;f4.txt;1;#
+#17;ri;1;f4.txt;1;#
+#26;1234;1;f4.txt;1;#
+#27;@#;1;f4.txt;1;#
